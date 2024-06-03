@@ -1,0 +1,57 @@
+{
+  "Rooms": [
+    {
+      "RoomNumber": 101,
+      "RoomClass": "Luxury",
+      "RatePerDay": 100,
+      "NumberOfBeds": 3,
+      "CleaningTime": "--:--",
+      "Roommates": [
+        null,
+        null,
+        null
+      ],
+      "FreeSpaces": 3
+    },
+    {
+      "RoomNumber": 102,
+      "RoomClass": "Economy",
+      "RatePerDay": 20,
+      "NumberOfBeds": 4,
+      "CleaningTime": "--:--",
+      "Roommates": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "FreeSpaces": 4
+    }
+  ],
+  "Guests": [
+    {
+      "FullName": "efe",
+      "Gender": "Male",
+      "BirthYear": 2006,
+      "BirthPlace": "ewfe",
+      "RegistrationPlace": "htyjuky",
+      "Citizenship": "gbnv",
+      "IssuePlace": "zxczx",
+      "IssueDate": "2024-02-26T00:00:00",
+      "ValidUntil": "2024-11-24T00:00:00",
+      "TaxNumber": "8769",
+      "ArrivalDate": "2024-05-02T00:00:00",
+      "DepartureDate": "2024-06-02T00:00:00",
+      "RoomNumber": 101,
+      "RoomClass": "Luxury",
+      "BreakfastTime": "07:21",
+      "Order": "Apple, Apple, Apple"
+    }
+  ],
+  "Menu": [
+    {
+      "ItemName": "Apple",
+      "Price": 10.5
+    }
+  ]
+}
